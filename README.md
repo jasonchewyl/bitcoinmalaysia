@@ -1,2 +1,2 @@
 # bitcoinmalaysia
-Helping Malaysians to understand cryptocurrencies, BUIDL and enter global blockchain industry.
+Helping more Malaysians to better understand cryptocurrencies easily, BUIDL and enter global blockchain industry.
