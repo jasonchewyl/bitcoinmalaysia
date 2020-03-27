@@ -27,7 +27,7 @@ So, just decline.
 Plus, sometimes we might accidentally decline a legit request. That's okay.  
 At least, the user isn't blocked and if the user is real, they can request again because they are not blocked.
 
-### 2\) Decline requests from Nigeria, Ethopia & Yemen.
+### 2\) Decline requests from Nigeria, Ethiopia & Yemen.
 
 ![We apparently get a lot of requests from University of Oxford graduates. &#x1F926;&#x200D;&#x2640;&#xFE0F;](.gitbook/assets/fake-account-1.jpg)
 
