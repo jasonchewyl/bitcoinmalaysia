@@ -27,11 +27,11 @@ So, just decline.
 Plus, sometimes we might accidentally decline a legit request. That's okay.  
 At least, the user isn't blocked and if the user is real, they can request again because they are not blocked.
 
-### 2\) Decline requests from Nigeria. 
+### 2\) Decline requests from Nigeria, Ethopia & Yemen.
 
 ![We apparently get a lot of requests from University of Oxford graduates. &#x1F926;&#x200D;&#x2640;&#xFE0F;](.gitbook/assets/fake-account-1.jpg)
 
-As a general rule, the probability of a real user from Nigeria is very slim. This policy is not intended to discriminate against their countrymen. We discriminate fake accounts and scammers. If you verify a user to be a real person from Nigeria, please invite them in.
+As a general rule, the probability of a real user from these countries are very slim. This policy is not intended to discriminate against their countrymen. We discriminate fake accounts and scammers. If you verify a user to be a real person from these countries, please invite them in.
 
 ### 3\) Decline requests from newer FB accounts e.g. 2020, 2019, 2018
 
